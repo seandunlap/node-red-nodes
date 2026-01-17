@@ -5,7 +5,7 @@
   "dependencies": {
     "imap": "^0.8.19",
     "mailparser-mit": "^0.6.2",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.9.9",
     "poplib": "^0.1.7"
   },
   "repository": {
