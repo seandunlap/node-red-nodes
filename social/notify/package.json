@@ -3,7 +3,7 @@
     "version"       : "0.1.1",
     "description"   : "A Node-RED node to send local popup Notify alerts",
     "dependencies"  : {
-        "node-notifier" : "5.2.1"
+        "node-notifier" : "10.0.1"
     },
     "repository" : {
         "type":"git",
